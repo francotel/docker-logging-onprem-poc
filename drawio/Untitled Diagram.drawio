@@ -34,6 +34,14 @@
         <mxCell id="0OstebDAjXTthMVmMG55-19" value="clientes" style="shape=image;html=1;verticalAlign=middle;verticalLabelPosition=middle;labelBackgroundColor=none;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/Social_Media-2656/social_media_social_media_logo_docker-527.svg;labelPosition=right;align=left;fontStyle=1;fontSize=14;spacing=7;" vertex="1" parent="0OstebDAjXTthMVmMG55-8">
           <mxGeometry x="20" y="93" width="51" height="51" as="geometry" />
         </mxCell>
+        <mxCell id="0OstebDAjXTthMVmMG55-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;strokeWidth=3;fillColor=#f8cecc;strokeColor=#b85450;dashed=1;" edge="1" parent="1" source="0OstebDAjXTthMVmMG55-10" target="0OstebDAjXTthMVmMG55-27">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="330" y="-39" />
+              <mxPoint x="330" y="-4" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="0OstebDAjXTthMVmMG55-10" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Docker Daemon&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-12.75" y="-56.5" width="166.5" height="35" as="geometry" />
         </mxCell>
